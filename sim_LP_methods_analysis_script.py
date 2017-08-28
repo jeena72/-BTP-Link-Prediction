@@ -18,8 +18,8 @@ link_files = ['pp_interactions_YST.csv', 'stay_away_INF.csv',
               'nn_roundworm_CEL.csv', 'airport_network_USA.csv',
               'hamster_social_network_HMT.csv', 'copurchase_amazon_BCK.csv',
               'dblp_coauthorship_CNS.csv']
-algo_list = ['CN',	'AA',	'RA',	'RA-CNI',	'PA',	'JA',	'SA',	'SO',	'HPI',	'HDP',
-             'LLHN', 'IA1', 'IA2',	'MI', 'B-CN', 'LNB-AA', 'LNB-RA',	'CAR-CN',
+algo_list = ['CN', 'AA', 'RA', 'RA-CNI', 'PA',	'JA',	'SA',	'SO',	'HPI',	'HDP',
+             'LLHN', 'IA1', 'IA2', 'MI', 'B-CN', 'LNB-AA', 'LNB-RA',	'CAR-CN',
              'R-AA', 'CAR-RA', 'FSW', 'LIT', 'NSP', 'GLHN', 'RW', 'RWR', 'FP',
              'MERW', 'SR', 'PLM', 'ACT', 'RFK', 'BI', 'LPI', 'LRW', 'SRW',
              'ORA-CNI', 'FL', 'PFP']
